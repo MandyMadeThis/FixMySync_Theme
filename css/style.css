@@ -839,6 +839,10 @@ nav.out li:nth-child(1) {
       font-size: 22px;
       margin-right: 0; } }
 
+.triangle {
+  position: absolute;
+  z-index: 1; }
+
 .about {
   padding-top: 100px;
   padding-bottom: 100px; }
